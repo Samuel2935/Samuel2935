@@ -3,6 +3,6 @@
 <p>I'm a co-founder <a href = "https://log-reg-app-f8b34.web.app/ ">GUVI</a></p>
 
 <hr/>
-<img src="[ https://th.bing.com/th/id/OIP.v7PnyseE7SF7Zy463Duw_wHaEK?pid=ImgDet&rs=1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLkVm6FwBFDhQja3QqHmUFIRCUl5H6eH63A&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLkVm6FwBFDhQja3QqHmUFIRCUl5H6eH63A&usqp=CAU" />
+<img src="https://global-uploads.webflow.com/5f59f5829ccb43e646633b1d/61e5771956ac22c73dbcb972_Kopia%20diagramy%20-02.png" />
 
 
