@@ -1,9 +1,7 @@
-Hello,I'm Samuel Odinaka Ezeh.
-I'm a Frontend React dev.
+<p>Hello,I'm Samuel Odinaka Ezeh.</p>
+<p>I'm a Frontend React dev.</p>
+
 <hr/>
 <div>
-  <h2> Contact me <h2/>
-
-  <img src = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ACircle-icons-mail.svg&psig=AOvVaw0TGcR3sbTYjLVsfOz0QdMZ&ust=1691146626673000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDataSqwIADFQAAAAAdAAAAABAT' alt = 'image' />
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3t1Nyhoapx86CwONIjRxk5GfeEfD14BQ-dXHB-Hc5g&s "/>
 </div>
