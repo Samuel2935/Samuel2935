@@ -1,7 +1,5 @@
-<p>Hello,I'm Samuel Odinaka Ezeh.</p>
-<p>I'm a Frontend React dev.</p>
-<p>Blockchain is a dream 🤞</p>
-<p>A co-founder <a href ="https://log-reg-app-f8b34.web.app/ ">GUVI</a> </p>
+<p>Samuel Ezeh is a young passionate software developer and a co-founder of <a href ="https://log-reg-app-f8b34.web.app/>GUVI</a> who with diverse exposure has acquired much needed experience to excel in different software development environments. He has been involved in high quality designs and implementation of various software applications and has worked on several projects involving financial applications, e-commerce and so on. Samuel Ezeh is a creative problem solver who looks out not just for end results but the processes that were undergone to achieve such results. He is primarily focused on opportunities that will broaden his knowledge and relevance in technology industry.</p>
+
 
 <hr/>
 <div>
