@@ -14,7 +14,7 @@
 </a>
 
 <a>
-<img src = "[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjTRbbEHOrk1lKjICcrA2TsPzQDGIw33vYNYPcKki6vQ&s ](https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png)https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png"/>
+    <img src = "https://static.vecteezy.com/system/resources/previews/018/910/721/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg "/>
 </a>
 
 
