@@ -1,6 +1,4 @@
-<p>Samuel Ezeh is a young passionate software developer and a co-founder of <a href ="https://log-reg-app-f8b34.web.app/>GUVI</a></p>
-
-
+<p>Hell, I'm Samuel Ezeh</p>
 <hr/>
 <div>
     <h4>Contact me today!!<h4/>
