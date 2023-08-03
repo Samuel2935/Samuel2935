@@ -1,7 +1,8 @@
-<p>Hell, I'm Samuel Ezeh</p>
+<p>Hello, I'm Samuel Ezeh</p>
+<p>I am here to have fun while growing professionally</p>
 <hr/>
 <div>
-    <h4>Contact me today!!<h4/>
+    <h4>Hit me via 👇!!<h4/>
 <a href = "mailto: samuelblessed38@gmail.com" >
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3t1Nyhoapx86CwONIjRxk5GfeEfD14BQ-dXHB-Hc5g&s "/>
 </a>
