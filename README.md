@@ -1,8 +1,10 @@
 <p>Hello, I'm Samuel Ezeh</p>
-<p>I am here to have fun while growing professionally</p>
+<p>💻I'm a frontend React developer</p>
+<p>I'm a co-founer <a href = "https://log-reg-app-f8b34.web.app/ ">GUVI</a></p>
+
 <hr/>
 <div>
-    <h4>Hit me via 👇!!<h4/>
+    <h5>Feel free to contact me for software development<h5/>
 <a href = "mailto: samuelblessed38@gmail.com" >
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3t1Nyhoapx86CwONIjRxk5GfeEfD14BQ-dXHB-Hc5g&s "/>
 </a>
