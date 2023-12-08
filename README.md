@@ -1,5 +1,6 @@
 <p>Hello, I'm Samuel Ezeh</p>
-<p>💻I'm a frontend React developer</p>
+<p>ReactJS & NextJS Dev 👩‍💻✨</p>
+<P>Blockchain is a good friend</P>
 <p>Co-founder <a href = "https://log-reg-app-f8b34.web.app/ ">GUVI</a></p>
 
 <hr/>
