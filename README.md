@@ -1,17 +1,10 @@
 
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm Samuel Odinaka Ezeh;" alt="Typing SVG"/>
-    </h1>
-</div>
-
-
-<div align="center">
+<div>
     <h2>🚀 About Me</h2>
-    <p>I'm a frontend engineer specializing in React. I enjoy coding and tweeting.</p>
+    <p>I'm a frontend engineer specializing in React; <p>Co-founder <a href = "https://log-reg-app-f8b34.web.app/ ">GUVI</a></p>. I enjoy coding and tweeting.</p>
 </div>
 
-<div align="center">
+<div >
     <a href="https://www.linkedin.com/in/samuel-ezeh-62797018a/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -50,7 +43,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> 
 </div>
 
-<p>Co-founder <a href = "https://log-reg-app-f8b34.web.app/ ">GUVI</a></p>
+
 
 <hr/>
 <img style="width: 100%; height:250px;" src= "https://www.datocms-assets.com/49690/1629950670-react-suspense.png?fit=crop&fm=jpg&h=1000&w=2000"/>
