@@ -1,7 +1,7 @@
 
 <div>
     <h2>🚀 About Me</h2>
-    <p>I'm a frontend engineer specializing in React; <p>Co-founder <a href = "https://log-reg-app-f8b34.web.app/ ">GUVI</a></p>. I enjoy coding and tweeting.</p>
+    <p>I'm a frontend engineer specializing in React. <p>Co-founder <a href = "https://log-reg-app-f8b34.web.app/ ">GUVI</a></p>. I enjoy coding and tweeting.</p>
 </div>
 
 <div >
@@ -10,15 +10,11 @@
     </a>
 </div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
-
-<div align="center">
+<div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
 
-<div align="center">
+<div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </div>
 
