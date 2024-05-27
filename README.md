@@ -1,7 +1,8 @@
 
 <div>
     <h2>Reimagining the world with code !!!</h2>
-    <p>I'm a Frontend Engineer (ReatJS) <p>Co-founder <a href = "https://log-reg-app-f8b34.web.app/ ">GUVI</p>
+    <p>I'm a Frontend Engineer (ReatJS)</p>
+    <p>Building EST Africa</p>
      
 </div>
 
