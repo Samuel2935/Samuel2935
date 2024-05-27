@@ -1,6 +1,6 @@
 
 <div>
-    <h2>With Code, we can change the World !!!</h2>
+    <h2>Reimagining the world with code !!!</h2>
     <p>I'm a Frontend Engineer (ReatJS) <p>Co-founder <a href = "https://log-reg-app-f8b34.web.app/ ">GUVI</p>
      
 </div>
