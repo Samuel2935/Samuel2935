@@ -1,14 +1,10 @@
 
 <div>
     <h2>🚀 About Me</h2>
-    <p>I'm a frontend engineer specializing in React. <p>Co-founder <a href = "https://log-reg-app-f8b34.web.app/ ">GUVI</a></p>I enjoy coding and tweeting.</p>
+    <p>I'm a Frontend Engineer (ReatJS) <p>Co-founder <a href = "https://log-reg-app-f8b34.web.app/ ">GUVI</p>
+     
 </div>
 
-<div >
-    <a href="https://www.linkedin.com/in/samuel-ezeh-62797018a/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-</div>
 
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
