@@ -1,7 +1,7 @@
 
 <div>
     <h2>Reimagining the world with code !!!</h2>
-    <p>I'm a Frontend Engineer (ReatJS)</p>
+    <p>A Frontend Engineer (ReatJS)</p>
     <p>Building EST Africa</p>
      
 </div>
