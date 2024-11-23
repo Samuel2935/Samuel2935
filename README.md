@@ -1,8 +1,6 @@
 
 <div>
-    <h2>Reimagining the world with code !!!</h2>
-    <p>A Frontend Engineer (ReatJS)</p>
-    <h2>Building EST Africa</h2>
+  <h1>React & Blockchain</h1>
      
 </div>
 
