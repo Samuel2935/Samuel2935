@@ -1,5 +1,6 @@
 
 <div>
+   <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rwm0DvVE64RwzqcLK1-X5mYD8FMYXsZa6w&s)" />
   <h1>React & Blockchain</h1>
 </div>
 
