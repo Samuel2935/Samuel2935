@@ -1,7 +1,7 @@
 
 <div>
   <h1>React & Blockchain</h1>
-https://www.google.com/imgres?q=location%20icon&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F552%2F683%2Fnon_2x%2Fgeo-location-pin-vector-icon.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Flocation-icon&docid=zb-PbSpz-fCQUM&tbnid=YwkB4vekNyejaM&vet=12ahUKEwiL6s3QpPOJAxWZYEEAHfwiNoIQM3oECGgQAA..i&w=490&h=490&hcb=2&ved=2ahUKEwiL6s3QpPOJAxWZYEEAHfwiNoIQM3oECGgQAA
+<img src="https://www.google.com/imgres?q=location%20icon&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F552%2F683%2Fnon_2x%2Fgeo-location-pin-vector-icon.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Flocation-icon&docid=zb-PbSpz-fCQUM&tbnid=YwkB4vekNyejaM&vet=12ahUKEwiL6s3QpPOJAxWZYEEAHfwiNoIQM3oECGgQAA..i&w=490&h=490&hcb=2&ved=2ahUKEwiL6s3QpPOJAxWZYEEAHfwiNoIQM3oECGgQAA"/>
 </div>
 
 <div>
