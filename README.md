@@ -1,7 +1,7 @@
 
 <div>
-<span>React & Blockchain </span>
-   &#9883;
+<span>React &#9883; & Blockchain </span>
+ 
 </div>
 
 <div>
