@@ -1,7 +1,7 @@
 
 <div>
   <h1>React & Blockchain</h1>
-  <i class="material-icons" style="font-size:48px;color:red">add_location</i>
+ &#xe567;
 </div>
 
 <div>
