@@ -1,6 +1,6 @@
 
 <div>
-  <h1>React & Blockchain</h1>
+  <h1>React & Blockchain</h1> &#xf124;
      
 </div>
 
