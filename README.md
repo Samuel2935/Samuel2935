@@ -1,9 +1,8 @@
 
 <div>
   <h1>React & Blockchain</h1>
-  <i class="material-icons">&#xe567;</i>
-     
 </div>
+  <i class="material-icons">&#xe567;</i>
 
 
 <div>
