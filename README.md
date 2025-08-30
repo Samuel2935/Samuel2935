@@ -1,6 +1,6 @@
 
 <div>
-<span>React, Node.js, Spring Boot, AI, &#9883; & Blockchain </span>
+<span>React, Node.js, Spring Boot, AI, & Blockchain </span>
  
 </div>
 
