@@ -1,6 +1,6 @@
 
 <div>
-<span>React, NextJS Node.js, Nestjs, Spring Boot, AI, & web3 </span>
+<span>React, NextJS, Node.js, Nestjs, Spring Boot, AI, & web3 </span>
  
 </div>
 
