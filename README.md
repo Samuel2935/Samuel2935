@@ -1,6 +1,6 @@
 
 <div>
-<span>React, Node.js, Spring Boot, AI, & Blockchain </span>
+<span>React, NextJS Node.js, Nestjs, Spring Boot, AI, & web3 </span>
  
 </div>
 
